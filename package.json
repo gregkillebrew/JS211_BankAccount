@@ -1,0 +1,22 @@
+{
+  "name": "js211_bankaccount",
+  "version": "1.0.0",
+  "description": "Create a new JS211_BankAccount repo and clone it to your 211 project folder",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregkillebrew/JS211_BankAccount.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregkillebrew/JS211_BankAccount/issues"
+  },
+  "homepage": "https://github.com/gregkillebrew/JS211_BankAccount#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
